@@ -4,7 +4,7 @@
 }
 body {
     background: black;
-    font-family: 'Amatic SC', cursive;
+    font-family: 'Cute Font', cursive;
     position: relative;
 }
 .titlename {
@@ -30,7 +30,7 @@ body {
     z-index: -1;
     animation-name: begin;
     animation-delay: 1s;
-    animation-duration: 5s;
+    animation-duration: 4s;
     animation-fill-mode: forwards;
 }
 .leftdiv2 {
@@ -43,11 +43,10 @@ body {
     z-index: -1;
     animation-name: begin;
     animation-delay: 1s;
-    animation-duration: 5s;
+    animation-duration: 4s;
     animation-fill-mode: forwards;
 }
 .showcase {
-    font-family: 'Song Myung', serif;
     position: absolute;
     left: 30%;
     top: 500px;
